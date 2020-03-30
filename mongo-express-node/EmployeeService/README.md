@@ -12,8 +12,8 @@
 * To Check Mongo DB Status `sudo service mongod status`
 
 ## Working with MongoDB
-* mongo (Get in DB Terminal)
-* show dbs (Show all database)
-* use ChinmayDB (switched to db ChinmayDB)
-* show collections (Show all collections)
-* db.users.find( {} ) (Retrieve all documents in the users collection)
+* `mongo` (Get in DB Terminal)
+* `show dbs` (Show all database)
+* `use ChinmayDB` (switched to db ChinmayDB)
+* `show collections` (Show all collections)
+* `db.users.find( {} )` (Retrieve all documents in the users collection)
