@@ -5,6 +5,10 @@
 * Use Postmant to check the API
 * view MongoDB Database for data
 
+## MongoDB installation
+
+<a href="https://github.com/CHINMAYVIVEK/literate-guide/blob/mean-stack/mongodb" target="_blank">MongoDB Installation guide for Ubuntu</a>
+
 ## MongoDB Command
 * To Start Mongo DB `sudo service mongod start`
 * To Stop Mongo DB `sudo service mongod stop`
