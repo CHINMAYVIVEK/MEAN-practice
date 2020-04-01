@@ -1,4 +1,4 @@
-const { mem, url } = require("../configuration/url");
+const { mem, url } = require("../configuration/db");
 var mon = require('mongoose');
 // created structure mem
 var mems = mon.model('dhar', mem, 'users'); // (model , structure, collection)

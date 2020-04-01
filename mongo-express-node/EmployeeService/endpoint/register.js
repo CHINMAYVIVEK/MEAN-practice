@@ -1,4 +1,4 @@
-const { mems } = require("../modals/mems");
+const { mems } = require("../models/model");
 var exp = require('express');
 var bp = require('body-parser');
 // Create Restful API for Routing (httpGet, httpPost, HttpDelete)

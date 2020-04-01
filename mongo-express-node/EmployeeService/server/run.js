@@ -1,4 +1,4 @@
-const { app } = require("../endpoint/app");
+const { app } = require("../endpoint/register");
 
 // Hosting
 app.listen(4000,function(){
